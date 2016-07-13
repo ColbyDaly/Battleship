@@ -1,4 +1,8 @@
 Single Player Battleship
+
+
+
+
 Project members: Colby Daly, Nic Bonzanni, Tyler LaFronz
 
 How to play can be found on the .exe's splash screen. 
